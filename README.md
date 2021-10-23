@@ -1,4 +1,4 @@
-# vite-react-ts-chakra-router-template
+# 🛴 vite-react-ts-chakra-router-template 🛴
 
 - Typescript
 - Chakra-UI as Component Library
